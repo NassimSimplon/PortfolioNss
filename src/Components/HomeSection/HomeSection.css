@@ -1,0 +1,17 @@
+#Home{
+    width: 100%;
+    height: 100vh;
+    background-color: purple;
+ 
+} 
+
+#Home > .empty-space{
+    width: 100%;
+    height: 3.5rem;
+}
+
+#Home > .content{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+
+ }
