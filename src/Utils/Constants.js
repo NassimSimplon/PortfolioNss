@@ -1,21 +1,22 @@
   
 //Nav Links 
 export const NavLinks = [{
+    id:1,
     linkName:'Home',
     LinkPath:'#Home'
-},{
+},{  id:2,
     linkName:'About',
     LinkPath:'#About'
-},,{
+},{  id:3,
     linkName:'Skills',
     LinkPath:'#Skills'
-},{
+},{  id:4,
     linkName:'Services',
     LinkPath:'#Services'
-},{
+},{  id:5,
     linkName:'Projects',
     LinkPath:'#Projects'
-},{
+},{  id:6,
     linkName:'Contact',
     LinkPath:'#Contact'
 }]

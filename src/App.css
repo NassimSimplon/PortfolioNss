@@ -1,4 +1,12 @@
- body{
+/*Color Variables*/
+:root{
+  --backgroundColor:purple;
+  --spanColor:#FF5757;
+  --subTitleColor:black;
+  --nameColor:white;
+  --NavLinkColor:white;
+}
+body{
   height: 200vh;
  }
 .progress-bar {
@@ -51,3 +59,4 @@
   transform: rotateX(-90deg) translateZ(12.5px);
   background-color: #22cc88;
 }
+
