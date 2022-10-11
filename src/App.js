@@ -18,10 +18,12 @@ function App() {
   return (
      <>
           <motion.div
-        className="progress-bar"
+        className="progress-bar"d
         style={{ scaleX: scrollYProgress }}
       />
      <Logo />
+     nassim test
+     
 
      <HomeSection />
 
